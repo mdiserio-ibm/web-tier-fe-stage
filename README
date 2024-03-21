@@ -1,14 +1,13 @@
 Requirement
 
-• Ogni elemento della lista è presentato all’interno della card bootstrap con titolo e body
+• Recuperare i post dal servizio https://jsonplaceholder.typicode.com/posts e mostrare ogni elemento della lista come card bootstrap con titolo e body
 • Il titolo in grassetto (1.25rem;) nero Post[title];
 • Il paragrafo (1rem) Post[body];
-• Al click sul quadrato, andare su un’altra pagina in cui è presente il dettaglio del post;
+• Al click sul quadrato, andare su un’altra pagina in cui è presente il dettaglio del post , leggendo il dettaglio dal servizio https://jsonplaceholder.typicode.com/posts/:id
 • Infine aggiungere un bottone nella pagina di dettaglio, per tornare alla home;
 • Creazione Header con colore #ad2a37 e testo bianco (2.5rem)
 • Creazione Footer con colore #ad2a37 e testo nero (1.2rem);
-• Link in footer che apre direttamente il client presente sul pc per inviare mail. Testo bianco
-(1.2rem)
+• Link in footer che apre direttamente il client presente sul pc per inviare mail. Testo bianco (1.2 rem)
 
 Pro tips
 
